@@ -1,1 +1,1 @@
-# Jupyter Notbook 파일은 [Go to file]로 열람하기
+# Jupyter Notbook 파일 안 열리면 계속 새로고침!
